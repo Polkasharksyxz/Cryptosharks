@@ -73,7 +73,7 @@ exclude:
 ignore:
 
 # Extensions
-theme: landscape
+theme: minima
 
 # Deployment
 deploy:
